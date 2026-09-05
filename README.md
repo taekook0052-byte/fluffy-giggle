@@ -1,7 +1,6 @@
 # 🤖 AI Agent Gateway
 
-Free AI Agent Gateway with smart model routing —
-یك سرور مركزي كه APIهاي رايگان AI رو جمع‌آوري و يكپارچه مي‌كنه.
+Free AI Agent Gateway with smart model routing — یک سرور مرکزی که APIهای رایگان AI رو جمع‌آوری و یکپارچه می‌کنه.
 
 ## Features
 - 🔀 Smart model routing (best model per task)
